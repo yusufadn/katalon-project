@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Allow user to book an appointment</description>
+   <name>RTC003_Book an appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6d68d646-00d8-4a39-a8d3-7e02b66ea9af</testCaseGuid>
+</TestCaseEntity>

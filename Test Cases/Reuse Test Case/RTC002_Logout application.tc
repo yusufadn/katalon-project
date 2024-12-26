@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Allow user to logout application</description>
+   <name>RTC002_Logout application</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27fca62a-57e0-4ec8-97b4-5a13a267fd58</testCaseGuid>
+</TestCaseEntity>

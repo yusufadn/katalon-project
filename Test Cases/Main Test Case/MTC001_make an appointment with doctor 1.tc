@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Allow user to book an appointment with doctor</description>
+   <name>MTC001_make an appointment with doctor 1</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7cf31d50-2306-4455-ab18-d04831c451ff</testCaseGuid>
+</TestCaseEntity>
