@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Tokyo CURA Healthcare Center                            Hongkong CURA Healthcare Center                            Seoul CURA Healthcare Center</name>
+   <name>select_Tokyo CURA Healthcare Center</name>
    <tag></tag>
    <elementGuidId>f737ea1b-91ea-40cf-a3bf-c6513e60d05f</elementGuidId>
    <selectorCollection>
